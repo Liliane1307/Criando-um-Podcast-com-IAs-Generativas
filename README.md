@@ -1,5 +1,4 @@
-# Criando-um-Podcast-com-IAs-Generativas
-Projeto de Podcast Sobre Finanças para mulheres
+# Projeto de Podcast Sobre Finanças para mulheres
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante a minha participação no BootCamp 'CAIXA - IA Generativa com Microsoft Copilot'
