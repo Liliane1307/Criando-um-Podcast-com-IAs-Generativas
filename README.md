@@ -23,4 +23,6 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Capcut para tratar aúdio e adicionar sons de fundo
 - Conversor para transformar o arquivo em Mp3
 - Capa do audio inserida no Windows Media Player
+
+  
   
